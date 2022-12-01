@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naufalanabil
-- 👀 I’m interested in Teknical Information As Website HTML,CSS,Java Script
+- 👀 I’m interested in Technical Information As Website HTML,CSS,Java Script
 - 🌱 I’m currently learning Coding HTML,CSS,Java Script
 - 💞️ I’m looking to collaborate on My Github
 - 📫 How to reach me WA 08568564378
