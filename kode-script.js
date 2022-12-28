@@ -1,0 +1,1 @@
+document.write("Javascript Code From External Files");
